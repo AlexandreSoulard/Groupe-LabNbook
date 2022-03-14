@@ -17,17 +17,23 @@ Les technologies employées sont :
 - Ajax (pour certains d'entre nous)
 - Laravel (pour certains d'entre nous)
 
+Architecture :
+
+![image](https://user-images.githubusercontent.com/58270807/158170946-d2850b8b-dc7d-4ef3-b00a-da7262099be5.png)
+
+Réalisations techniques :
+
+Gestion de projet (méthode, planning prévisionnel et effectif, gestion des risques, rôles des membres ...) :
+
+Outils (collaboration, CD/CI ...) :
+
+Métriques logiciels : lignes de code, langages, performance, temps ingénieur (d'après vos journaux), la répartition des lignes de code et des commits en pourcentage entre les membres du projet ...) :
+
+Conclusion (Retour d'expérience) :
 
 
-
-Rappel du sujet/besoin et cahier des charges
-Technologies employées
-Architecture techniques
-Réalisations techniques
-Gestion de projet (méthode, planning prévisionnel et effectif, gestion des risques, rôles des membres ...)
-Outils (collaboration, CD/CI ...)
-Métriques logiciels : lignes de code, langages, performance, temps ingénieur (d'après vos journaux), la répartition des lignes de code et des commits en pourcentage entre les membres du projet ...)
-Conclusion (Retour d'expérience)
 Transparent expliquant la démonstration
+
+
 
 
