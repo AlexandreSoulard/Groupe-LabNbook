@@ -125,7 +125,7 @@ Nous avons aussi utilisé Discord, logiciel de messagerie, afin de pouvoir commu
 
 Pour ce qui concerne le code, nous avons utilisé :
 
--Visual Studio Code
+- Visual Studio Code
 
 ![vscode](./images_rapport/vscode.png)
 
@@ -175,16 +175,23 @@ Les discussions avec le chef du projet étaient assez compliquées car on devait
 
 ## Glossaire
 
-Issue : Terme utilisé pour représenter une tâche à réaliser sur Gitlab ainsi que sur Github.
-Sprint agile : Durée au cours de laquelle chaque collaborateur a des tâches à effectuer, pour les présenter à la fin de cette durée. Au début de ce temps imparti, tous les collaborateurs se réunissent afin de partager les tâches à réaliser et de se mettre d’accord sur le temps nécessaire pour réaliser chaque tâche demandée.
-Porteur de projet : Personne qui représente le projet auprès de notre groupe.
-Scrum master : Personne qui s’occupe, lors de l’utilisation d’une méthodologie agile, de la communication dans le groupe de travail et qui veille à ce que tout se passe bien, niveau relationnel, entre les membres du groupe.
-Gitlab : plateforme utilisée pour faciliter la gestion d’un projet.
-Discord : logiciel permettant de communiquer facilement avec d’autres personnes.
-Phpstorm et Visual Studio Code : logiciels utilisés principalement pour écrire du code.
-Kanban : tableau qu’on retrouve par exemple sur GitLab ou Github et qui permet de gérer facilement les tâches du projet, en les plaçant dans certaines catégories (Open, To do, Doing, To check, To merge, Closed).
+- Issue : Terme utilisé pour représenter une tâche à réaliser sur Gitlab ainsi que sur Github.
 
-## ContentsBibliographie
+- Sprint agile : Durée au cours de laquelle chaque collaborateur a des tâches à effectuer, pour les présenter à la fin de cette durée. Au début de ce temps imparti, tous les collaborateurs se réunissent afin de partager les tâches à réaliser et de se mettre d’accord sur le temps nécessaire pour réaliser chaque tâche demandée.
+
+- Porteur de projet : Personne qui représente le projet auprès de notre groupe.
+
+- Scrum master : Personne qui s’occupe, lors de l’utilisation d’une méthodologie agile, de la communication dans le groupe de travail et qui veille à ce que tout se passe bien, niveau relationnel, entre les membres du groupe.
+
+- Gitlab : plateforme utilisée pour faciliter la gestion d’un projet.
+
+- Discord : logiciel permettant de communiquer facilement avec d’autres personnes.
+
+- Phpstorm et Visual Studio Code : logiciels utilisés principalement pour écrire du code.
+
+- Kanban : tableau qu’on retrouve par exemple sur GitLab ou Github et qui permet de gérer facilement les tâches du projet, en les plaçant dans certaines catégories (Open, To do, Doing, To check, To merge, Closed).
+
+## Bibliographie
 
 
 - Documentation de Laravel : https://laravel.com/docs/
@@ -196,14 +203,30 @@ Kanban : tableau qu’on retrouve par exemple sur GitLab ou Github et qui permet
 
 Visualisations des fonctionnalités implémentées :
 
+![image](https://user-images.githubusercontent.com/58270807/158790070-f31b9474-3fd5-4728-83ff-4673d408b22a.png)
 
-Fonctionnalité implémentée par Alexandre et Emilie : affichage de traces de travaux d’étudiants
-
-
-
-
-Fonctionnalité implémentée par Emilie : affichage des noms des tuteurs de chaque mission
+_Fonctionnalité implémentée par Alexandre et Emilie : affichage de traces de travaux d’étudiants_  
 
 
 
-Fonctionnalité implémentée par Kevin : ajout d’un bouton pour afficher le compte d’un utilisateur dans ce menu
+![image](https://user-images.githubusercontent.com/58270807/158790108-daf56ab8-a28b-45c6-8795-d19cd7f122d9.png)
+
+_Fonctionnalité implémentée par Emilie : affichage des noms des tuteurs de chaque mission_  
+
+
+
+![image](https://user-images.githubusercontent.com/58270807/158790156-9f1dc8b8-b4a8-4a9f-91cf-fd2842859e11.png)
+
+_Fonctionnalité implémentée par Kevin : ajout d’un bouton pour afficher le compte d’un utilisateur dans ce menu_  
+
+
+![image](https://user-images.githubusercontent.com/58270807/158790229-3e396aa5-de48-4d13-8510-15070f4b8377.png)
+
+_Fonctionnalité implémentée par Alexandre : ajout d’un champ de recherche pour les missions_  
+
+
+![image](https://user-images.githubusercontent.com/58270807/158790317-6c9caf60-ad04-4c74-8f62-9dae37c2247a.png)  ![image](https://user-images.githubusercontent.com/58270807/158790361-6b59bcf0-5369-45d1-8dea-976f5769047e.png)
+
+Image de gauche c'était avant et l'image de droite c'est maintenant
+
+_Fonctionnalité Développée par Alexandre : amélioration de l’affichage des documents à importer_  
