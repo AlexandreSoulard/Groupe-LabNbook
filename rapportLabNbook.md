@@ -73,6 +73,9 @@ Permet de faciliter l’appel à Ajax, en rendant les requêtes plus visuelles e
 
 ![Archi](./images_rapport/archi.png)
 
+L’architecture est basée sur le modèle MVC (modèle vue contrôleur). Le route manager permet de parser le chemin auquel veut accéder le client et d’envoyer les informations au contrôleur, qui va charger la vue adéquat ainsi que les données nécessaire à l’affichage, en les demandant au modèle, qui va lui-même demander ce qui est nécessaire à la base de données.
+
+
 ## Réalisations techniques : 
 
 Bugs corrigés sur le logiciel :
