@@ -1,4 +1,4 @@
-# Rapport Groupe LabnBook
+# Rapport Groupe LabNbook
 
 ## Etudiants :
 
@@ -8,7 +8,7 @@
 - YUNG Kevin
 
 
-## Qu’est-ce que LabnBook ?
+## Qu’est-ce que LabNbook ?
 
 C’est un cahier numérique partagé permettant d’effectuer des travaux concernant les sciences de façon plus pratique, principalement pour les lycéens et étudiants du supérieur. C’est un outil comprenant des espaces structurés par les enseignants, afin d’écrire collaborativement, de façon synchrone ou pas, des rapports de projet, cahiers de laboratoire, ou comptes-rendus de travaux pratiques. Cet outil facilite également le travail à distance.
 
