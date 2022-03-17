@@ -165,7 +165,7 @@ Répartition des lignes de code par membre du projet : (le nombre de commits à 
 
 ## Répartition des langages utilisés dans le projet :
 
-Dans le diagramme ci-dessus, “Blade” contient principalement l’HTML. Nous pouvons voir que le projet est principalement constitué de JavaScript. En effet, le traitement des données représente une très grande partie de la programmation, tandis qu’en général l’affichage se fait en quelques lignes.
+Dans le diagramme ci-dessous, “Blade” permet de générer du HTML côté serveur en PHP, donc la part de Blade contient du HTML. Nous pouvons voir que le projet est principalement constitué de JavaScript. En effet, le traitement des données représente une très grande partie de la programmation, tandis qu’en général l’affichage se fait en quelques lignes. Cependant, pour le JavaScript, la quantité marquée dans ce diagramme comprend les librairires importées donc le projet contient moins de JavaScript mais cela reste quand même le langage le plus utilisé dans le projet.
 
 ![repartitionLangages](./images_rapport/repartitionLangages.png)
 
