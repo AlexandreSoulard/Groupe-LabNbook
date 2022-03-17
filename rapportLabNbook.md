@@ -78,14 +78,14 @@ L’architecture est basée sur le modèle MVC (modèle vue contrôleur). Le rou
 
 ## Réalisations techniques : 
 
-Bugs corrigés sur le logiciel :
+#### Bugs corrigés sur le logiciel :  
 Bug d’affichage de certaines images, dépassement du cadre dans lequel les images se trouvent.
 
 L’affichage de certaines pop-up ne se faisait pas au bon endroit, ainsi cela pouvait gêner la visualisation de ce qui est écrit dedans.
 
-L’affichage de l’importation de documents sur la plateforme ne se faisait pas correctement, il se pouvait que le nom des documents soient tronqués.
+L’affichage de l’importation de documents sur la plateforme ne se faisait pas correctement, il se pouvait que le nom des documents soient tronqués.  
 
-Fonctionnalités développées sur le logiciel :
+#### Fonctionnalités développées sur le logiciel :  
 Pour chaque mission des élèves : affichage des noms des professeurs en lien avec la mission.
 
 Affichage de frises pour permettre aux professeurs de suivre ce qu’ont fait les élèves.
